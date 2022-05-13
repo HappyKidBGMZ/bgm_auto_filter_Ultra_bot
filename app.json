@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/SadKidBGMZ/bgm_auto_filter_bot",
-    "repository": "https://github.com/SadKidBGMZ/bgm_auto_filter_bot",
+    "website": "https://github.com/SadKidBGMZ",
+    "repository": "https://github.com/HappyKidBGMZ/bgm_auto_filter_Ultra_bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
